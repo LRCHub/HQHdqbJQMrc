@@ -1,0 +1,56 @@
+# ランディ・ニューマン – すべてがストレンジ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I was on top of the world livin' high
+It was right in my pocket
+I was livin' the life
+Things were just the way they should be
+
+When from out of the sky
+Like a bomb comes some little punk in a rocket
+Now all of a sudden
+Some strange things are happenin' to me
+
+I had friends
+I had lots of friends
+Now all my friends are gone
+And I'm doin' best I can to carry on
+
+I had power (power)
+I was respected (respect)
+But not anymore
+And I've lost the love
+The one whom I adored
+
+Let me tell you about the strange things
+Are happenin' to me
+Strange things
+Strange things are happenin' to me
+Ain't no doubt about it
+
+You got someone you think you know well
+It turns out a stranger
+The minute you turn your back
+You're in it all by yourself
+
+They laugh at your jokes
+You think you're doin' quite well
+But you're in danger, boy
+You end up alone, forgotten
+Way up on the shelf
+
+Strange things are happenin' to me
+Strange things
+Strange things are happenin' to me
+Ain't no doubt about it
+
+Strange things are happenin' to me
+Strange things
+Strange things are happenin' to me
+
+Strange things
+Strange things
+Strange things
+```
