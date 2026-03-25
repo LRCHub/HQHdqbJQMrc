@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "すべてがストレンジ",
+  "base_artist": "ランディ・ニューマン",
+  "createdAt": "2026-03-25T11:22:55.540351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すべてがストレンジ",
+      "artist": "ランディ・ニューマン",
+      "has_synced": false,
+      "path": "select/01_すべてがストレンジ_ランディ・ニューマン.txt"
+    }
+  ]
+}
